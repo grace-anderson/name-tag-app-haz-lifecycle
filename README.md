@@ -1,2 +1,2 @@
-# notes-tag-app-haz-lifecycle
+# name-tag-creator-react
 Created with CodeSandbox
